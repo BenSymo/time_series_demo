@@ -20,11 +20,11 @@ To use this project, follow the steps below:
 
 1. Clone or download the project repository to your local machine.
 
-2. Download the `analysis.ipynb` IPython notebook file and the `aep_hourly.csv` data file.
-
-3. Install the required packages listed in the `requirements.txt` file. You can do this by running the following command in your terminal or command prompt:
+2. Install the required packages listed in the `requirements.txt` file. You can do this by running the following command in your terminal or command prompt:
 
    pip install -r requirements.txt
+
+3. Open `analysis.ipynb` IPython notebook file and run all the cells.
 
 ## License
 
